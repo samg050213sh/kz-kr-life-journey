@@ -121,3 +121,4 @@ Or open directly in Google Colab.
 📄 License
 
 MIT License.
+![banner](https://img.shields.io/badge/Data%20Science%20Project-KZ%20to%20KR-0abde3?style=for-the-badge)
