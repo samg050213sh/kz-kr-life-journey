@@ -1,4 +1,4 @@
-🇰🇿🇰🇷 KZ–KR Life Journey Analysis
+**KZ–KR Life Journey Analysis
 
 A personal data-science project about adapting from Kazakhstan to South Korea (2019–2025)
 Using Python, statistics, visualizations, and machine learning.
