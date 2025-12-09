@@ -19,6 +19,26 @@ Using Python, statistics, visualizations, and machine learning.
 This project is both a technical assignment and a personal reflection of living abroad.
 
 ---
+
+## "Results - Graphs"
+
+### "1. Emotional transition"
+<img width="2056" height="1405" alt="emotional_transition" src="https://github.com/user-attachments/assets/1868f79f-ddc0-4a0d-8247-abe843b0532d" />
+
+### "2. Friends count"
+<img width="2056" height="1405" alt="friends_count" src="https://github.com/user-attachments/assets/76835017-5e2b-4e9d-9989-6834b3e1bea0" />
+
+### "3. Korean level"
+<img width="2033" height="1405" alt="korean_level" src="https://github.com/user-attachments/assets/5b00debc-ef01-4516-8cae-6470794797c8" />
+
+### "4. Sleep quality"
+<img width="2056" height="1405" alt="sleep_quality" src="https://github.com/user-attachments/assets/026ce8e9-f8cf-47c1-a054-80e328ef0747" />
+
+### "5. Stress vs happiness"
+<img width="2056" height="1405" alt="stress_vs_happiness" src="https://github.com/user-attachments/assets/df239e94-abbd-45a9-80f4-aee5ccb4d5a8" />
+
+
+
 ## 📁 Project Structure
 ```
 kz-kr-life-journey/
